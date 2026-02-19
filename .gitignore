@@ -1,0 +1,7 @@
+.angular/
+.npm/
+node_modules/
+**/package-lock.json
+package-lock.json
+**/.env
+.env
